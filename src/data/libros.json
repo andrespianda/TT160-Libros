@@ -1,0 +1,418 @@
+[
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "isbn": "9780451524935",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780451524935-M.jpg",
+    "generos": ["Distopía", "Ciencia ficción"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "To Kill a Mockingbird",
+    "autor": "Harper Lee",
+    "isbn": "9780061120084",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780061120084-M.jpg",
+    "generos": ["Ficción", "Clásico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=To+Kill+a+Mockingbird+Harper+Lee"
+  },
+  {
+    "titulo": "The Great Gatsby",
+    "autor": "F. Scott Fitzgerald",
+    "isbn": "9780743273565",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780743273565-M.jpg",
+    "generos": ["Ficción", "Clásico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=The+Great+Gatsby+F.+Scott+Fitzgerald"
+  },
+  {
+    "titulo": "Pride and Prejudice",
+    "autor": "Jane Austen",
+    "isbn": "9780141439518",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780141439518-M.jpg",
+    "generos": ["Romance", "Clásico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=Pride+and+Prejudice+Jane+Austen"
+  },
+  {
+    "titulo": "The Hobbit",
+    "autor": "J. R. R. Tolkien",
+    "isbn": "9780547928227",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780547928227-M.jpg",
+    "generos": ["Fantasía", "Aventura"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=The+Hobbit+J.+R.+R.+Tolkien"
+  },
+  {
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "isbn": "9781451673319",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9781451673319-M.jpg",
+    "generos": ["Distopía", "Ciencia ficción"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Brave New World",
+    "autor": "Aldous Huxley",
+    "isbn": "9780060850524",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780060850524-M.jpg",
+    "generos": ["Distopía", "Ciencia ficción"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "The Catcher in the Rye",
+    "autor": "J. D. Salinger",
+    "isbn": "9780316769488",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780316769488-M.jpg",
+    "generos": ["Ficción", "Clásico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "The Lord of the Rings",
+    "autor": "J. R. R. Tolkien",
+    "isbn": "9780618640157",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780618640157-M.jpg",
+    "generos": ["Fantasía", "Aventura"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Animal Farm",
+    "autor": "George Orwell",
+    "isbn": "9780451526342",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780451526342-M.jpg",
+    "generos": ["Satírico", "Político"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "The Kite Runner",
+    "autor": "Khaled Hosseini",
+    "isbn": "9781594631931",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9781594631931-M.jpg",
+    "generos": ["Ficción", "Drama"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "One Hundred Years of Solitude",
+    "autor": "Gabriel García Márquez",
+    "isbn": "9780060883287",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780060883287-M.jpg",
+    "generos": ["Realismo mágico", "Ficción"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "The Alchemist",
+    "autor": "Paulo Coelho",
+    "isbn": "9780061122415",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780061122415-M.jpg",
+    "generos": ["Ficción", "Filosófico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Catch-22",
+    "autor": "Joseph Heller",
+    "isbn": "9781451626650",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9781451626650-M.jpg",
+    "generos": ["Sátira", "Guerra"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Crime and Punishment",
+    "autor": "Fyodor Dostoyevsky",
+    "isbn": "9780140449136",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780140449136-M.jpg",
+    "generos": ["Crimen", "Psicológico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "The Book Thief",
+    "autor": "Markus Zusak",
+    "isbn": "9780375842207",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780375842207-M.jpg",
+    "generos": ["Histórico", "Drama"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "The Giver",
+    "autor": "Lois Lowry",
+    "isbn": "9780544336261",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780544336261-M.jpg",
+    "generos": ["Distopía", "Juvenil"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Lord of the Flies",
+    "autor": "William Golding",
+    "isbn": "9780399501487",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780399501487-M.jpg",
+    "generos": ["Ficción", "Supervivencia"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Jane Eyre",
+    "autor": "Charlotte Brontë",
+    "isbn": "9780141441146",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780141441146-M.jpg",
+    "generos": ["Romance", "Clásico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Wuthering Heights",
+    "autor": "Emily Brontë",
+    "isbn": "9780141439556",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780141439556-M.jpg",
+    "generos": ["Romance", "Clásico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "The Chronicles of Narnia",
+    "autor": "C. S. Lewis",
+    "isbn": "9780066238500",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780066238500-M.jpg",
+    "generos": ["Fantasía", "Juvenil"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Anna Karenina",
+    "autor": "Leo Tolstoy",
+    "isbn": "9780140449174",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780140449174-M.jpg",
+    "generos": ["Romance", "Clásico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Les Misérables",
+    "autor": "Victor Hugo",
+    "isbn": "9780451419439",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780451419439-M.jpg",
+    "generos": ["Histórico", "Drama"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Moby-Dick",
+    "autor": "Herman Melville",
+    "isbn": "9780142437247",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780142437247-M.jpg",
+    "generos": ["Clásico", "Aventura"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Lolita",
+    "autor": "Vladimir Nabokov",
+    "isbn": "9780679723165",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780679723165-M.jpg",
+    "generos": ["Drama", "Controversial"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Beloved",
+    "autor": "Toni Morrison",
+    "isbn": "9781400033416",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9781400033416-M.jpg",
+    "generos": ["Histórico", "Drama"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Frankenstein",
+    "autor": "Mary Shelley",
+    "isbn": "9780141439471",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780141439471-M.jpg",
+    "generos": ["Romántico", "Gótico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "A Tale of Two Cities",
+    "autor": "Charles Dickens",
+    "isbn": "9780141439600",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780141439600-M.jpg",
+    "generos": ["Histórico", "Drama"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Of Mice and Men",
+    "autor": "John Steinbeck",
+    "isbn": "9780140177398",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780140177398-M.jpg",
+    "generos": ["Drama", "Clásico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "The Diary of a Young Girl",
+    "autor": "Anne Frank",
+    "isbn": "9780553296983",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780553296983-M.jpg",
+    "generos": ["Memorias", "Histórico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "The Road",
+    "autor": "Cormac McCarthy",
+    "isbn": "9780307387899",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780307387899-M.jpg",
+    "generos": ["Post-apocalíptico", "Drama"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "The Picture of Dorian Gray",
+    "autor": "Oscar Wilde",
+    "isbn": "9780141439570",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780141439570-M.jpg",
+    "generos": ["Filosófico", "Gótico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "One Flew Over the Cuckoo's Nest",
+    "autor": "Ken Kesey",
+    "isbn": "9780679722761",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780679722761-M.jpg",
+    "generos": ["Drama", "Psicológico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "A Clockwork Orange",
+    "autor": "Anthony Burgess",
+    "isbn": "9780393312836",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780393312836-M.jpg",
+    "generos": ["Distopía", "Ciencia ficción"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "The Handmaid's Tale",
+    "autor": "Margaret Atwood",
+    "isbn": "9780385490818",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780385490818-M.jpg",
+    "generos": ["Distopía", "Feminista"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "The Grapes of Wrath",
+    "autor": "John Steinbeck",
+    "isbn": "9780143039433",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780143039433-M.jpg",
+    "generos": ["Histórico", "Drama"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Invisible Man",
+    "autor": "Ralph Ellison",
+    "isbn": "9780679732761",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780679732761-M.jpg",
+    "generos": ["Ficción", "Clásico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "The Stranger",
+    "autor": "Albert Camus",
+    "isbn": "9780679720200",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780679720200-M.jpg",
+    "generos": ["Filosófico", "Existencialista"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Heart of Darkness",
+    "autor": "Joseph Conrad",
+    "isbn": "9780141441672",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780141441672-M.jpg",
+    "generos": ["Clásico", "Colonial"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Don Quixote",
+    "autor": "Miguel de Cervantes",
+    "isbn": "9780060934347",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780060934347-M.jpg",
+    "generos": ["Clásico", "Aventura"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Dracula",
+    "autor": "Bram Stoker",
+    "isbn": "9780141439846",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780141439846-M.jpg",
+    "generos": ["Gótico", "Horror"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Charlotte's Web",
+    "autor": "E. B. White",
+    "isbn": "9780064400558",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780064400558-M.jpg",
+    "generos": ["Infantil", "Fábula"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Great Expectations",
+    "autor": "Charles Dickens",
+    "isbn": "9780141439563",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780141439563-M.jpg",
+    "generos": ["Clásico", "Desarrollo personal"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "The Sound and the Fury",
+    "autor": "William Faulkner",
+    "isbn": "9780679732242",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780679732242-M.jpg",
+    "generos": ["Moderno", "Clásico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Slaughterhouse-Five",
+    "autor": "Kurt Vonnegut",
+    "isbn": "9780440180296",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780440180296-M.jpg",
+    "generos": ["Antiguerra", "Ciencia ficción"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Beloved",
+    "autor": "Toni Morrison",
+    "isbn": "9781400033416",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9781400033416-M.jpg",
+    "generos": ["Histórico", "Drama"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Ulysses",
+    "autor": "James Joyce",
+    "isbn": "9780199535675",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780199535675-M.jpg",
+    "generos": ["Moderno", "Clásico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "The Odyssey",
+    "autor": "Homero",
+    "isbn": "9780140268867",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780140268867-M.jpg",
+    "generos": ["Épico", "Clásico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Alice's Adventures in Wonderland",
+    "autor": "Lewis Carroll",
+    "isbn": "9780141439761",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780141439761-M.jpg",
+    "generos": ["Fantasía", "Infantil"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Metamorphosis",
+    "autor": "Franz Kafka",
+    "isbn": "9780553213690",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780553213690-M.jpg",
+    "generos": ["Existencialista", "Corto"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "Meditations",
+    "autor": "Marcus Aurelius",
+    "isbn": "9780812968255",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780812968255-M.jpg",
+    "generos": ["Filosofía", "Clásico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  },
+  {
+    "titulo": "The Brothers Karamazov",
+    "autor": "Fyodor Dostoyevsky",
+    "isbn": "9780374528379",
+    "imagen": "https://covers.openlibrary.org/b/isbn/9780374528379-M.jpg",
+    "generos": ["Filosófico", "Clásico"],
+    "wiki": "https://es.wikipedia.org/wiki/Special:Search?search=1984+George+Orwell"
+  }
+]

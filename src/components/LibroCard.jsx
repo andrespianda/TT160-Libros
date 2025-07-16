@@ -1,7 +1,7 @@
 // import React, { useEffect, useState } from "react";
 
 function Librocard({ iLibro }) {
-  console.log(iLibro);
+  // console.log(iLibro);
   return (
     <>
       <div className="col-4 p-3 ">

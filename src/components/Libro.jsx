@@ -1,13 +1,36 @@
 import React, { useEffect, useState } from "react";
-import misLibrosF from "../data/libros.json";
+// import misLibrosF from "../data/libros.json";
 import Librocard from "./Librocard";
 
 function Libro() {
   const [misLibros, setMisLibros] = useState([]);
 
   useEffect(() => {
-    setMisLibros(misLibrosF);
-  }, []);
+  const obtenerLibros = async () => {
+      try {
+        const response = await fetch("http://localhost:3000/api/libros");
+        // if (!response.ok) {
+        //   throw new Error("Error al obtener los libros");
+        // }
+        //console.log(await response.json());
+         const data = await response.json();
+
+         setMisLibros(data)
+         //console.log(data)
+         //return data
+         //console.log(misLibros)
+        } catch (error) {
+          console.error("Error:", error);
+          return error;
+        } 
+        
+      }
+      obtenerLibros()
+      
+      
+   
+
+}, []);
   return (
     <>
       <section>
@@ -19,9 +42,12 @@ function Libro() {
         </div>
         <div className="container">
           <div className="row   ">
-            {misLibros.map((libro, i) => (
+            {
+              // console.log(misLibros, "revisar")
+            misLibros.map(  (libro, i) => (
               <Librocard key={i} iLibro={libro} />
-            ))}
+            ))
+            }
           </div>
         </div>
       </section>

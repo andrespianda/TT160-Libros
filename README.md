@@ -19,6 +19,16 @@ Además, se realizaron pruebas utilizando una **data local** antes de integrar l
 - 🎨 **Bootstrap** – Estilos y componentes responsivos.
 
 ---
+🌐 API y Data Local
+
+Inicialmente, el proyecto utilizó data local (JSON estático) para pruebas.
+
+Luego se integró una API externa para obtener la información real de libros.
+
+📌 Repositorio de la API en GitHub:
+👉 https://github.com/andrespianda/api-libros
+
+---
 
 ## 📂 Scripts disponibles
 
@@ -27,3 +37,6 @@ En el directorio del proyecto puedes ejecutar:
 ### ▶️ Modo desarrollo
 ```bash
 npm run dev
+
+```
+

@@ -1,12 +1,29 @@
-# React + Vite
+# 📚 Proyecto TT160-Libros
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-4+-646CFF?logo=vite&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+![React Router](https://img.shields.io/badge/React%20Router-7-DD0031?logo=reactrouter&logoColor=white&style=flat-square)
+![ESLint](https://img.shields.io/badge/ESLint-8-4B32C3?logo=eslint&logoColor=white&style=flat-square)
 
-Currently, two official plugins are available:
+Este proyecto es un ejercicio práctico donde se conecta una **API de libros** para obtener información y mostrarla en el **frontend**.  
+Además, se realizaron pruebas utilizando una **data local** antes de integrar la API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ **React** – Librería principal para la construcción de la interfaz.
+- ⚡ **Vite** – Herramienta de bundling y desarrollo rápido.
+- 🛣️ **React Router DOM** – Manejo de rutas en la aplicación.
+- 🎨 **Bootstrap** – Estilos y componentes responsivos.
+
+---
+
+## 📂 Scripts disponibles
+
+En el directorio del proyecto puedes ejecutar:
+
+### ▶️ Modo desarrollo
+```bash
+npm run dev
